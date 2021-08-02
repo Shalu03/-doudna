@@ -5,3 +5,8 @@ This is Isha Barve from Mumbai India**
 +  My email id is : isha.barve0@gmail.com 
 +  My _Slack handle_ is @Isha 
 +  ***I am really interested in genomics , chemoinformatics, drug design , cancer biology and data analytics.***
+This is Shalini Gupta from Indore India**
++ ** I am currently pursing M.Sc. Bioinformatics Student**
++ My email id is : shalinigupta02992gmail.com
++ My _Slack handle_ is @Shalini
++  ***I am really interested in bioinformatics frontend, data analytics, genomics, vaccine informatics and proteomics.***
